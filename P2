@@ -1,2 +1,6 @@
 first line for P2
+<<<<<<< Updated upstream
 LINE 2 FOR P2-GITHUB
+=======
+LINE 2 FOR P2-PUTTY
+>>>>>>> Stashed changes
